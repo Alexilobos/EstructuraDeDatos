@@ -1,5 +1,6 @@
 ## Bienvenido a mi repositorio de Estructura de Datos!
 ### Docente: KAREM ESTHER INFANTAS SOTO.
+#### Ingenieria Informatica- 3er Semestre
 ~~~
 En este repositorio estará todo lo avanzado de la materia 
 estructura de datos. Espero que le guste este pequeño 
