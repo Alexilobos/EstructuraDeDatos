@@ -3,7 +3,7 @@
 ~~~
 En este repositorio estará todo lo avanzado de la materia 
 estructura de datos. Espero que le guste este pequeño 
-arreglo no es mucho pero es honesto...
+arreglo no es mucho pero es honesto...  (si quiere le puedo explicar como hacer estos pequeños arreglos)
 ~~~
 ### programas presentados por el momento:
  esta ordenado por nombre de trabajo o tarea (y nombre del archivo).
