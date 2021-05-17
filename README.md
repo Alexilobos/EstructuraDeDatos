@@ -22,6 +22,8 @@ arreglo no es mucho pero es honesto...
 + (ManejoVectorForm)
 + (tarea2ejem11)
 6. Pila
-+
++ (PilaConsola)
++ (PilaConForms)
++ (Pila Dinamica)
 8. Cola
 +
