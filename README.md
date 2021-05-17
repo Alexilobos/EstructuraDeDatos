@@ -15,12 +15,12 @@ arreglo no es mucho pero es honesto...
 +   Carla Celeste (AceleracionForms1) 
 +  Daniel Gonzales (CalcularTiempo)
 5. Arreglos, Vectores
-+(EjArreglo)
-+(EjemploMatricesConsola)
-+(EjemploMatricesForms)
-+(ejercicio3vector)
-+(ManejoVectorForm)
-+(tarea2ejem11)
++ (EjArreglo)
++ (EjemploMatricesConsola)
++ (EjemploMatricesForms)
++ (ejercicio3vector)
++ (ManejoVectorForm)
++ (tarea2ejem11)
 6. Pila
 +
 8. Cola
