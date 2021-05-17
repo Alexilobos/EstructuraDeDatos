@@ -14,7 +14,7 @@ arreglo no es mucho pero es honesto...
 +   Mi persona (velocidadForms) 
 +   Carla Celeste (AceleracionForms1) 
 +  Daniel Gonzales (CalcularTiempo)
-5. Arreglos, Vectores
+5. Arreglos, Vectores, Matrices
 + (EjArreglo)
 + (EjemploMatricesConsola)
 + (EjemploMatricesForms)
