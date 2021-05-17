@@ -21,9 +21,13 @@ arreglo no es mucho pero es honesto...
 + (ejercicio3vector)
 + (ManejoVectorForm)
 + (tarea2ejem11)
-6. Pila
+6. Pila, nodo, puntero
 + (PilaConsola)
 + (PilaConForms)
 + (Pila Dinamica)
-8. Cola
-+
+8. Cola, nodo, puntero , listas enlazadas
++ (COLAS SIMPLES)
++ (Colacirc)
++ (Cola dinamica)
++ (punteroscons)
++ (ListasColasCons)
